@@ -1,4 +1,4 @@
-package com.example.bookmanagement;
+package com.example.bookmanagement.config;
 
 import java.util.Properties;
 import javax.sql.DataSource;
